@@ -1,0 +1,101 @@
+[33mcommit c88c72d8a3e0a33efa1ffc6eb7ec894d92b39b36[m[33m ([m[1;36mHEAD -> [m[1;32mcrossfit_predict[m[33m)[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 19:18:49 2023 -0700
+
+    initial commit on predict branch
+
+[33mcommit dc14a63adde8ef1915a1a605bc152e97e8790c6c[m[33m ([m[1;31morigin/crossfit_predict[m[33m, [m[1;31morigin/crossfit_eda[m[33m, [m[1;32mcrossfit_eda[m[33m)[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 19:06:16 2023 -0700
+
+    more branch issue resolution
+
+[33mcommit c49299b393d9bb563fc581452b435dd3054f117e[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 19:00:14 2023 -0700
+
+    more branch issue fixing
+
+[33mcommit 4bf1c5e42460ab544a6323a5cd09a928402e6aac[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 17:47:46 2023 -0700
+
+    added intro and outline
+
+[33mcommit 249c1db02e320025ed346070e4bdd98e312a9e20[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 15:29:26 2023 -0700
+
+    added intro
+
+[33mcommit 47d79556de01f8a708e269ffd77164ef83909a96[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 15:17:28 2023 -0700
+
+    added conclusion
+
+[33mcommit 9deed7786f31d40303ffe0a5576cf6b5795ae94f[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 14:51:19 2023 -0700
+
+    added lifestyle and training data to eda
+
+[33mcommit 73870f82eb0669ae7d29d81abb36b370ac6d65a1[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 12:40:13 2023 -0700
+
+    age eda added
+
+[33mcommit 3f3ff10795c410d4fbd4cf2218886142ce8c13d0[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 12:33:51 2023 -0700
+
+    added BMI eda
+
+[33mcommit af4a1b5cef49580e39ce0efaf838e8a8e3821c37[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 12:20:33 2023 -0700
+
+    added gender eda
+
+[33mcommit 3b724ec111e03cad80f1adafa627a2d8b7627beb[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 12:05:28 2023 -0700
+
+    eda of region added
+
+[33mcommit 5c2c0f69e71283415a64dae50d98dc065924f1b9[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 11:48:37 2023 -0700
+
+    performance data added
+
+[33mcommit 4bd978b7b2267777c14345d822882faec84fb4dd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 11:35:42 2023 -0700
+
+    data cleaning and feature engineering added
+
+[33mcommit 6cfe59362b963c42cc0e597f12c9d6d1c6b8b6e3[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 11:25:07 2023 -0700
+
+    data import
+
+[33mcommit 1d5a38c812d7641bc3f96904ff27dc9f42a7ff4c[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 10:54:18 2023 -0700
+
+    named file
+
+[33mcommit ea35fbb827caabe95fef2bcabb4328d49dcb37f7[m
+Author: Nina Cilliers <gasbarro.nina@gmail.com>
+Date:   Tue Jun 20 10:41:46 2023 -0700
+
+    initial commit with data
+
+[33mcommit 4836f909cf6e793eb40039dabe81136278fd81f9[m
+Author: Nina Cilliers <120755632+NinaCilliers@users.noreply.github.com>
+Date:   Tue Jun 20 10:12:31 2023 -0700
+
+    Initial commit
